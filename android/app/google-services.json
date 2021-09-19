@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209069849029",
+    "project_id": "tasklogicwind",
+    "storage_bucket": "tasklogicwind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209069849029:android:ccff711310c5a3ef8a73ac",
+        "android_client_info": {
+          "package_name": "com.example.task_login_wing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209069849029-tisl31dkidglfb2gq1of1ermhtai163d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_login_wing",
+            "certificate_hash": "e8d71cec193b04a5cfcb09de5fd1b561dfe05dfe"
+          }
+        },
+        {
+          "client_id": "209069849029-i4uh5c0s84acog3qnrauvorstu7akmel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ndvtjJFA-H3jgEdpayfZQyYiH1sZGhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209069849029-i4uh5c0s84acog3qnrauvorstu7akmel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
